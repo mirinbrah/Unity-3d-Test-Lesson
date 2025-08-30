@@ -3,7 +3,7 @@ using UnityEngine;
 public class CubeTransformMover : MonoBehaviour
 {
     // Скорость движения, настраивается в инспекторе
-    [SerializeField] private float moveSpeed = 8f;
+    [SerializeField] private float moveSpeed = 8.3f;
 
     void Update()
     {
